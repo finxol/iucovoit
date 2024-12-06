@@ -44,7 +44,7 @@
         "fast-xml-parser": "^4.2.5",
         "helmet": "^6.0.1",
         "jsonwebtoken": "^9.0.2",
-        "mongoose": "^7.4.1",
+        "mongoose": "^8.8.4",
         "nodemailer": "^6.9.4",
         "nuxt": "^2.16.3",
         "nuxt-start": "^2.16.3",
